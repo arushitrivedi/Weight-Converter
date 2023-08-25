@@ -1,0 +1,11 @@
+#container
+{
+    height : 250px;
+    width: 500px;
+    background-color:cornflowerblue;
+    color:indigo;
+    margin-top: 60px;
+    margin-left: 300px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
